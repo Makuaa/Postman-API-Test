@@ -1,2 +1,2 @@
 # Postman-API-Test
-Postman test sample using Swagger documentation
+Postman API test using Swagger documentation

@@ -1,1 +1,4 @@
 Mypetstore.postman_collection.json linguist-language=JSON
+
+*.kicad_pcb linguist-detectable
+*.sch linguist-detectable
